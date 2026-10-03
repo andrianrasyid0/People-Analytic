@@ -1,3 +1,5 @@
+<center><img src="Picture/Dashboard_People_Analytic.png"></img></center>
+
 # People Analytic
 Menganalisis data karyawan untuk memahami faktor-faktor yang mempengaruhi kepuasan kerja dan memberikan rekomendasi berbasis data untuk meningkatkan kepuasan kerja tersebut, menggunakan data survei karyawan untuk melakukan eksplorasi, menganalisis faktor-faktor kepuasan kerja, dan membuat dashboard interaktif untuk menampilkan hasil analisis secara visual.
 
